@@ -21,7 +21,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-репозиторий/currency-converter.git
+git clone https://git@github.com:AlexZhelPy/CurrencyConverter.git
 cd currency-converter
 ```
 2. Установите зависимости:
